@@ -1,24 +1,20 @@
-# vue-diagram
+# vue-vis  vue项目集成vis网络图谱
 
-## Project setup
+### 安装依赖
 ```
-npm install
+yarn install
 ```
-
-### Compiles and hot-reloads for development
+### 运行
 ```
-npm run serve
+yarn serve
 ```
-
-### Compiles and minifies for production
+### 打包
 ```
-npm run build
+yarn build
 ```
-
-### Lints and fixes files
+### 检查、修复文件
 ```
-npm run lint
+yarn lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
